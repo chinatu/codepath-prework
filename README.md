@@ -37,8 +37,10 @@ Messaging - deleting messages with no message to indicate delete
 Content sharing to most interacted contacts
 
 ## Describe any challenges encountered while building the app.
+One challenge I faced was figuring out the location of most of the windows, such as the connection inspector, couldn't locate it at first.
+Another challenge was linking the button asset to the code and renaming it which disabled that connection. 
 
-##An app idea I would like to build
+## An app idea I would like to build
 I want to build an app that allows users to learn the Igbo language, the app would use AI to make learning very intuitive
 assessing what users are good at and strengthening weak zones. Both Audio and text would be inputs.
 The app would have very interactive cards and in some cases flash cards for users to go through
