@@ -36,7 +36,7 @@ Easy navigation
 Messaging - deleting messages with no message to indicate delete
 Content sharing to most interacted contacts
 
-Describe any challenges encountered while building the app.
+## Describe any challenges encountered while building the app.
 
 ##An app idea I would like to build
 I would like to build an app that allows users to learn the Igbo language, the app would use AI to make learning very intuitive
